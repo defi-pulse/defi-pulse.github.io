@@ -6,5 +6,5 @@ title: Pulse
 description: "PUshing Low-carbon Services towards the Edge"
 source: docs
 
-baseurl: "/defi-pulse"
+#baseurl: "/defi-pulse"
 url: "https://defi-pulse.github.io/"
