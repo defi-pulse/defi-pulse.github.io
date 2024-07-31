@@ -26,3 +26,34 @@ h1.pulse-header{
 pulse-background {
   background-image: url("assets/images/pulse.png");
 }
+
+.partners {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 61rem;
+  justify-content: space-between;
+}
+
+.partner {
+  display: flex;
+  padding: 30px;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-dark {
+  background-color: #333333;
+}
+
+a.menu-item {
+  font-size: 25px;
+}
+
+a.menu-item-active {
+  font-size: 25px;
+  font-weight: bold;
+}
