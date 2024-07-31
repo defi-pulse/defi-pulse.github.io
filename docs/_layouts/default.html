@@ -44,6 +44,15 @@
         </section>
 
         <aside id="sidebar">
+
+          {% for node in site.pages %}
+          {% if page.url == node.url %}
+            <p><a href="{{node.url}}" class="menu-item-active">{{node.title}}</a></p>
+          {% else %}
+            <p><a href="{{node.url}}" class="menu-item">{{node.title}}</a></p>
+          {% endif %}
+        {% endfor %}
+
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
