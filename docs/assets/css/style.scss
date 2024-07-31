@@ -1,0 +1,29 @@
+---
+---
+
+
+@import "{{ site.theme }}";
+
+img.pulse {
+  max-width: 15%;
+  font-size: 21px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  line-height: 1.2;
+  color: #fff;
+}
+
+a.button-pulse {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+h1.pulse-header{
+  width: 940px;
+}
+
+pulse-background {
+  background-image: url("assets/images/pulse.png");
+}
