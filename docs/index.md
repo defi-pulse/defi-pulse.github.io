@@ -7,7 +7,7 @@ L’industrie du numérique connaît un essor indéniable, en partie lié à la 
 
 
 
-# Partenaires du défi
+# Consortium
 
 <div class="partners">
   <div class="partner">
