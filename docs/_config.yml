@@ -7,3 +7,9 @@ url: "https://defi-pulse.github.io/"
 
 author:
   name: Copyright © 2024 Inria
+
+header_pages:
+  - index.md
+  - consortium.md
+  - news.md
+  - publications.md
