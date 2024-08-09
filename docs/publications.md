@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Publciations
 ---
 
 <iframe width="505" height="500"

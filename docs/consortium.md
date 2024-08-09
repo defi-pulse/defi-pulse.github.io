@@ -42,15 +42,18 @@ title: Consortium
     </div>
   </div>
 
-  <h4 class="pulse-inria-team-title">Avalon Team - Centre Inria de Lyon</h4>
-
+  <a href="https://avalon.ens-lyon.fr/">
+    <h4 class="pulse-inria-team-title">Avalon Team - Centre Inria de Lyon</h4>
+  </a>
   <div class="pulse-consortium-partners">
       <ul class="pulse-team-member">
         <li>Laurent Lefèvre</li>
       </ul>
   </div>
 
-  <h4 class="pulse-inria-team-title">Ctrl-A Team - Centre Inria de l'Université Grenoble Alpes</h4>
+  <a href="https://team.inria.fr/ctrl-a/fr/">
+    <h4 class="pulse-inria-team-title">Ctrl-A Team - Centre Inria de l'Université Grenoble Alpes</h4>
+  </a>
 
   <div class="pulse-consortium-partners">
       <ul class="pulse-team-member">
@@ -61,7 +64,9 @@ title: Consortium
       </ul>
   </div>
 
-  <h4 class="pulse-inria-team-title">Spirals Team - Centre Inria de l'Université de Lille</h4>
+  <a href="https://team.inria.fr/spirals/">
+    <h4 class="pulse-inria-team-title">Spirals Team - Centre Inria de l'Université de Lille</h4>
+  </a>
   <div class="pulse-consortium-partners">
       <ul class="pulse-team-member">
         <li>Mohammed Chakib Belgaid</li>
@@ -73,7 +78,9 @@ title: Consortium
       </ul>
   </div>
 
-  <h4 class="pulse-inria-team-title">Stack Team - Centre Inria de l’Université de Rennes</h4>
+  <a href="https://stack-research-group.gitlabpages.inria.fr/web/">
+    <h4 class="pulse-inria-team-title">Stack Team - Centre Inria de l’Université de Rennes</h4>
+  </a>
   <div class="pulse-consortium-partners">
       <ul class="pulse-team-member">
         <li>Adrien Lebre</li>
@@ -81,7 +88,9 @@ title: Consortium
       </ul>
   </div>
 
-  <h4 class="pulse-inria-team-title">Topal Team - Centre Inria de l'Université de Bordeaux</h4>
+  <a href="https://topal.gitlabpages.inria.fr/">
+    <h4 class="pulse-inria-team-title">Topal Team - Centre Inria de l'Université de Bordeaux</h4>
+  </a>
   <div class="pulse-consortium-partners">
       <ul class="pulse-team-member">
         <li>Olivier Beaumont</li>
@@ -90,14 +99,18 @@ title: Consortium
       </ul>
   </div>
 
-  <h4 class="pulse-inria-team-title">Storm Team - Centre Inria de l'Université de Bordeaux</h4>
+  <a href="https://team.inria.fr/storm/">
+    <h4 class="pulse-inria-team-title">Storm Team - Centre Inria de l'Université de Bordeaux</h4>
+  </a>
   <div class="pulse-consortium-partners">
       <ul class="pulse-team-member">
         <li>Laércio Lima Pilla</li>
       </ul>
   </div>
 
-  <h4 class="pulse-inria-team-title">STIP - Centre Inria de l'Université de Lille</h4>
+  <a href="https://www.inria.fr/fr/lille-inria-cultive-lesprit-start-up">
+    <h4 class="pulse-inria-team-title">STIP - Centre Inria de l'Université de Lille</h4>
+  </a>
   <div class="pulse-consortium-partners">
       <ul class="pulse-team-member">
         <li>Marie Lhoutellier</li>
