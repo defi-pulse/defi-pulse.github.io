@@ -19,6 +19,14 @@ title: The Project
           <p>
             By comparing the energy and carbon efficiency of geo-distributed computation infrastructures with central ones via open source tools.
           </p>
+          <p>
+            <span class="pulse-card-key-word-a">Software Power Meter|</span>  
+            <span class="pulse-card-key-word-b">Environmental Footprint|</span>
+            <span class="pulse-card-key-word-c">Centralized Data Center|</span>
+            <span class="pulse-card-key-word-d">Edge Computing|</span>
+            <span class="pulse-card-key-word-e">Holistic Approach|</span>
+            <span class="pulse-card-key-word-f">Fine grained Footprint indicators</span>
+          </p>
         </td>
       </tr>
     </tbody>
@@ -39,6 +47,13 @@ title: The Project
         <td class="pulse-table-td-home">
           <p>
             By controlling emissions from HPC tasks and data storage.
+          </p>
+          <p>
+            <span class="pulse-card-key-word-c">Scheduling ad tasks Placement Algorithms|</span>  
+            <span class="pulse-card-key-word-e">Dynamic Optimization of IT Resources Usage|</span>  
+            <span class="pulse-card-key-word-a">Control Theory|</span>  
+            <span class="pulse-card-key-word-f">Algorithms Based on Data Popularity|</span>  
+            <span class="pulse-card-key-word-b">Pooling of Heterogeneous Tasks</span>              
           </p>
         </td>
       </tr>
