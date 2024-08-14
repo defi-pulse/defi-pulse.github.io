@@ -88,6 +88,15 @@ title: Consortium
       </ul>
   </div>
 
+  <a href="https://team.inria.fr/storm/">
+    <h4 class="pulse-inria-team-title">Storm Team - Centre Inria de l'Université de Bordeaux</h4>
+  </a>
+  <div class="pulse-consortium-partners">
+      <ul class="pulse-team-member">
+        <li>Laércio Lima Pilla</li>
+      </ul>
+  </div>
+
   <a href="https://topal.gitlabpages.inria.fr/">
     <h4 class="pulse-inria-team-title">Topal Team - Centre Inria de l'Université de Bordeaux</h4>
   </a>
@@ -99,14 +108,7 @@ title: Consortium
       </ul>
   </div>
 
-  <a href="https://team.inria.fr/storm/">
-    <h4 class="pulse-inria-team-title">Storm Team - Centre Inria de l'Université de Bordeaux</h4>
-  </a>
-  <div class="pulse-consortium-partners">
-      <ul class="pulse-team-member">
-        <li>Laércio Lima Pilla</li>
-      </ul>
-  </div>
+
 
   <a href="https://www.inria.fr/fr/lille-inria-cultive-lesprit-start-up">
     <h4 class="pulse-inria-team-title">STIP - Centre Inria de l'Université de Lille</h4>
