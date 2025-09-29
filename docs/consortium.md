@@ -69,9 +69,9 @@ title: Consortium
   </a>
   <div class="pulse-consortium-partners">
       <ul class="pulse-team-member">
-        <li>Mohammed Chakib Belgaid</li>
         <li>Sophie Cerf</li>
         <li>Thomas Collignon</li>
+        <li>Anderson Andrei Da Silva </li>
         <li>Daniel Romero Acero</li>
         <li>Romain Rouvoy</li>
         <li>Lionel Seinturier</li>
@@ -104,7 +104,6 @@ title: Consortium
       <ul class="pulse-team-member">
         <li>Olivier Beaumont</li>
         <li>Lionel Eyraud-Dubois</li>
-        <li>Esragul Korkmaz</li>
       </ul>
   </div>
 
