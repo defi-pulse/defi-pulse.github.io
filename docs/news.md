@@ -25,10 +25,10 @@ title: News
             <h3 class="article-preview-title">Anderson Andrei Da Silva, a new Postdoctoral Researcher joining the project...</h3>
             <p>
             Anderson Andrei Da Silva is a Postdoctoral Researcher at Inria Lille, in France. His research interests include serverless computing, the edge-cloud continuum, scientific workflows, scheduling policies, distributed systems, and energy efficiency. With a strong background in serverless computing and scheduling policies for heterogeneous platforms in the edge-cloud continuum, Dr. Da Silva has recently concluded a previous postdoc at HPE Labs in California, in USA, where he worked as a Researcher Engineer focused on optimizing the execution of HPC-AI scientific workflows in serverless computing. He earned his Ph.D and his M.Sc in computer science from the University Grenoble Alpes, in France, and his B.S. in computer science from the University of São Paulo, in Brazil.
-            His last publications are: FOA-Energy: A Multi-objective Energy-Aware Scheduling Policy for Serverless-based Edge-Cloud Continuum (in the 40th ACM/SIGAPP Symposium on Applied Computing - SAC'25 ); Enabling HPC Scientific Workflows for Serverless, (in the Super Computing 2024 Workshop CANOPIE-HPC); and Serverless Computing for Dynamic HPC Workflows (in the Super Computing 2024 Workshop WORKS24). More can be found at https://andersonandrei.github.io/.
+            His last publications are: FOA-Energy: A Multi-objective Energy-Aware Scheduling Policy for Serverless-based Edge-Cloud Continuum (in the 40th ACM/SIGAPP Symposium on Applied Computing - SAC'25 ); Enabling HPC Scientific Workflows for Serverless, (in the Super Computing 2024 Workshop CANOPIE-HPC); and Serverless Computing for Dynamic HPC Workflows (in the Super Computing 2024 Workshop WORKS24).
             </p>
             <a class="article-preview-summary" href="https://andersonandrei.github.io/">
-                His Website 
+                His Website
             </a>
         </div>
     </div>
