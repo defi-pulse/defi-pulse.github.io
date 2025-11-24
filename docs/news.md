@@ -16,6 +16,9 @@ title: News
               <div class="date">
                   24 November 2025
               </div>
+              <div class="tag" type="news">
+                news
+              </div>
           </div>
       </div>
       <div class="article-preview-content">
@@ -93,6 +96,9 @@ title: News
                 <div class="date">
                     9 August 2024
                 </div>
+                <div class="tag" type="news">
+                  news
+                </div>
             </div>
         </div>
         <div class="article-preview-content">
@@ -115,6 +121,9 @@ title: News
                 </div>
                 <div class="date">
                     9 August 2024
+                </div>
+                <div class="tag" type="news">
+                  news
                 </div>
             </div>
         </div>
