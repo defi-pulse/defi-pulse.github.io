@@ -5,6 +5,30 @@ title: News
 
 <div class="article-preview-list">
 
+  <div class="article-preview">
+      <div class="article-preview-metadata">
+          <div class="metadata-list">
+              <div class="tag-list">
+              </div>
+              <div class="author">
+                  par <i><b>Thomas Collignon</b></i>
+              </div>
+              <div class="date">
+                  24 November 2025
+              </div>
+          </div>
+      </div>
+      <div class="article-preview-content">
+          <h3 class="article-preview-title">Paper accepted at the conference Utility and Cloud Computing (UCC2025)</h3>
+          <p>
+            A new paper (authored by Thomas Collignon, Kouds Halitim, Raphaël Bleuse, Sophie Cerfn, Bogdan Robu, Éric Rutten, Lionel Seinturier and Alexandre van Kempen) has been accepted at the 18th IEEE/ACM International Conference on Utility and Cloud Computing (UCC2025) : <b>Mitigating Shared Storage Congestion Using Control Theory.</b>.
+          </p>
+          <a class="article-preview-summary" href="https://hal.science/hal-05368563v1/document">
+              Read the paper
+          </a>
+      </div>
+  </div>
+
     <div class="article-preview">
         <div class="article-preview-metadata">
             <div class="metadata-list">
