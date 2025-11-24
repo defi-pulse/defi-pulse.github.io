@@ -73,7 +73,7 @@ title: The Project
   </div>
   <div class="partner">
     <a href="https://qarnot.com">
-      <img src="assets/images/qarnot.png" alt="Qarnot" class="logo-dark"/>
+      <img src="assets/images/qarnot.png" alt="Qarnot"/> <!--class="logo-dark"/>
     </a>
   </div>
   <div class="partner">
