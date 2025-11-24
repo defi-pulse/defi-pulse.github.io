@@ -130,7 +130,7 @@ title: Consortium
     </div>
     <div class="pulse-consortium-partner">
       <a href="https://qarnot.com">
-        <img src="assets/images/qarnot.png" alt="Qarnot" class="logo-dark"/>
+        <img src="assets/images/qarnot.png" alt="Qarnot"/>
       </a>
     </div>
   </div>
